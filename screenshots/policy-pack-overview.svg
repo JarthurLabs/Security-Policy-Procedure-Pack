@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#f8fafc"/>
+<rect x="30" y="30" width="1220" height="660" rx="24" fill="#e2e8f0"/>
+<rect x="50" y="50" width="1180" height="92" rx="16" fill="#0f172a"/>
+<text x="80" y="88" font-size="30" font-family="Arial" fill="#ffffff" font-weight="700">Policy Pack Overview</text>
+<text x="80" y="120" font-size="18" font-family="Arial" fill="#cbd5e1">Deliverables created for small business security governance</text>
+<rect x="50" y="170" width="380" height="52" fill="#1e293b" stroke="#334155"/>
+<text x="62" y="203" font-size="16" font-family="Arial" fill="#ffffff" font-weight="700">Document</text>
+<rect x="430" y="170" width="570" height="52" fill="#1e293b" stroke="#334155"/>
+<text x="442" y="203" font-size="16" font-family="Arial" fill="#ffffff" font-weight="700">Purpose</text>
+<rect x="1000" y="170" width="230" height="52" fill="#1e293b" stroke="#334155"/>
+<text x="1012" y="203" font-size="16" font-family="Arial" fill="#ffffff" font-weight="700">Owner</text>
+<rect x="50" y="222" width="380" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="62" y="254" font-size="15" font-family="Arial" fill="#0f172a">Acceptable Use Policy</text>
+<rect x="430" y="222" width="570" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="442" y="254" font-size="15" font-family="Arial" fill="#0f172a">Set employee security expectations</text>
+<rect x="1000" y="222" width="230" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1012" y="254" font-size="15" font-family="Arial" fill="#0f172a">Operations</text>
+<rect x="50" y="274" width="380" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="62" y="306" font-size="15" font-family="Arial" fill="#0f172a">Password and MFA Standard</text>
+<rect x="430" y="274" width="570" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="442" y="306" font-size="15" font-family="Arial" fill="#0f172a">Strengthen authentication</text>
+<rect x="1000" y="274" width="230" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1012" y="306" font-size="15" font-family="Arial" fill="#0f172a">IT Admin</text>
+<rect x="50" y="326" width="380" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="62" y="358" font-size="15" font-family="Arial" fill="#0f172a">Access Control Standard</text>
+<rect x="430" y="326" width="570" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="442" y="358" font-size="15" font-family="Arial" fill="#0f172a">Enforce least privilege</text>
+<rect x="1000" y="326" width="230" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1012" y="358" font-size="15" font-family="Arial" fill="#0f172a">Operations</text>
+<rect x="50" y="378" width="380" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="62" y="410" font-size="15" font-family="Arial" fill="#0f172a">Incident Response Procedure</text>
+<rect x="430" y="378" width="570" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="442" y="410" font-size="15" font-family="Arial" fill="#0f172a">Create response workflow</text>
+<rect x="1000" y="378" width="230" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1012" y="410" font-size="15" font-family="Arial" fill="#0f172a">Operations</text>
+<rect x="50" y="430" width="380" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="62" y="462" font-size="15" font-family="Arial" fill="#0f172a">Vendor Review Checklist</text>
+<rect x="430" y="430" width="570" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="442" y="462" font-size="15" font-family="Arial" fill="#0f172a">Assess third-party SaaS risk</text>
+<rect x="1000" y="430" width="230" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1012" y="462" font-size="15" font-family="Arial" fill="#0f172a">Business Owner</text>
+<rect x="50" y="482" width="380" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="62" y="514" font-size="15" font-family="Arial" fill="#0f172a">Awareness One-Pager</text>
+<rect x="430" y="482" width="570" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="442" y="514" font-size="15" font-family="Arial" fill="#0f172a">Improve employee reporting</text>
+<rect x="1000" y="482" width="230" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1012" y="514" font-size="15" font-family="Arial" fill="#0f172a">IT Admin</text>
+<text x="50" y="650" font-size="18" font-family="Arial" fill="#475569">Synthetic screenshot for public GitHub portfolio documentation</text>
+</svg>

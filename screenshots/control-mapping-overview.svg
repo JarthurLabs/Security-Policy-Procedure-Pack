@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#f8fafc"/>
+<rect x="30" y="30" width="1220" height="660" rx="24" fill="#e2e8f0"/>
+<rect x="50" y="50" width="1180" height="92" rx="16" fill="#0f172a"/>
+<text x="80" y="88" font-size="30" font-family="Arial" fill="#ffffff" font-weight="700">Control Mapping Overview</text>
+<text x="80" y="120" font-size="18" font-family="Arial" fill="#cbd5e1">Documents connected to security objectives and recognized framework areas</text>
+<rect x="50" y="170" width="310" height="52" fill="#1e293b" stroke="#334155"/>
+<text x="62" y="203" font-size="16" font-family="Arial" fill="#ffffff" font-weight="700">Deliverable</text>
+<rect x="360" y="170" width="360" height="52" fill="#1e293b" stroke="#334155"/>
+<text x="372" y="203" font-size="16" font-family="Arial" fill="#ffffff" font-weight="700">Objective</text>
+<rect x="720" y="170" width="180" height="52" fill="#1e293b" stroke="#334155"/>
+<text x="732" y="203" font-size="16" font-family="Arial" fill="#ffffff" font-weight="700">NIST CSF</text>
+<rect x="900" y="170" width="330" height="52" fill="#1e293b" stroke="#334155"/>
+<text x="912" y="203" font-size="16" font-family="Arial" fill="#ffffff" font-weight="700">CIS Alignment</text>
+<rect x="50" y="222" width="310" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="62" y="254" font-size="15" font-family="Arial" fill="#0f172a">Acceptable Use Policy</text>
+<rect x="360" y="222" width="360" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="372" y="254" font-size="15" font-family="Arial" fill="#0f172a">Reduce unsafe employee behavior</text>
+<rect x="720" y="222" width="180" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="732" y="254" font-size="15" font-family="Arial" fill="#0f172a">Govern; Protect</text>
+<rect x="900" y="222" width="330" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="912" y="254" font-size="15" font-family="Arial" fill="#0f172a">Security Awareness and Skills Traini</text>
+<rect x="50" y="274" width="310" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="62" y="306" font-size="15" font-family="Arial" fill="#0f172a">Password and MFA Standard</text>
+<rect x="360" y="274" width="360" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="372" y="306" font-size="15" font-family="Arial" fill="#0f172a">Strengthen authentication</text>
+<rect x="720" y="274" width="180" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="732" y="306" font-size="15" font-family="Arial" fill="#0f172a">Protect</text>
+<rect x="900" y="274" width="330" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="912" y="306" font-size="15" font-family="Arial" fill="#0f172a">Account Management; Access Control M</text>
+<rect x="50" y="326" width="310" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="62" y="358" font-size="15" font-family="Arial" fill="#0f172a">Access Control Standard</text>
+<rect x="360" y="326" width="360" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="372" y="358" font-size="15" font-family="Arial" fill="#0f172a">Enforce least privilege</text>
+<rect x="720" y="326" width="180" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="732" y="358" font-size="15" font-family="Arial" fill="#0f172a">Govern; Protect</text>
+<rect x="900" y="326" width="330" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="912" y="358" font-size="15" font-family="Arial" fill="#0f172a">Account Management; Access Control M</text>
+<rect x="50" y="378" width="310" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="62" y="410" font-size="15" font-family="Arial" fill="#0f172a">Incident Response Procedure</text>
+<rect x="360" y="378" width="360" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="372" y="410" font-size="15" font-family="Arial" fill="#0f172a">Standardize response</text>
+<rect x="720" y="378" width="180" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="732" y="410" font-size="15" font-family="Arial" fill="#0f172a">Respond; Recover</text>
+<rect x="900" y="378" width="330" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="912" y="410" font-size="15" font-family="Arial" fill="#0f172a">Incident Response Management</text>
+<rect x="50" y="430" width="310" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="62" y="462" font-size="15" font-family="Arial" fill="#0f172a">Vendor Risk Review Checklist</text>
+<rect x="360" y="430" width="360" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="372" y="462" font-size="15" font-family="Arial" fill="#0f172a">Review third-party risk</text>
+<rect x="720" y="430" width="180" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="732" y="462" font-size="15" font-family="Arial" fill="#0f172a">Govern; Identify</text>
+<rect x="900" y="430" width="330" height="52" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="912" y="462" font-size="15" font-family="Arial" fill="#0f172a">Service Provider Management</text>
+<rect x="50" y="482" width="310" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="62" y="514" font-size="15" font-family="Arial" fill="#0f172a">Security Awareness One-Pager</text>
+<rect x="360" y="482" width="360" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="372" y="514" font-size="15" font-family="Arial" fill="#0f172a">Improve employee behavior and report</text>
+<rect x="720" y="482" width="180" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="732" y="514" font-size="15" font-family="Arial" fill="#0f172a">Govern; Protect; Detect</text>
+<rect x="900" y="482" width="330" height="52" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="912" y="514" font-size="15" font-family="Arial" fill="#0f172a">Security Awareness and Skills Traini</text>
+<text x="50" y="650" font-size="18" font-family="Arial" fill="#475569">Synthetic screenshot for public GitHub portfolio documentation</text>
+</svg>

@@ -2,71 +2,176 @@
 
 ## Overview
 
-A practical GRC documentation pack containing security policies, incident response procedures, access control rules, vendor review guidance, and employee awareness material.
+This is a beginner GRC and security documentation portfolio project for a simulated small business that needs baseline cybersecurity governance, access control, vendor risk, incident response, and employee awareness documentation.
 
-## Scenario
+The first version of this project was intentionally documentation-focused. This updated version adds stronger **evidence of work**: control mapping, risk scoring, vendor risk scoring, before/after maturity improvement logic, screenshots, and a changelog.
 
-A small business needs baseline cybersecurity documentation to support safer operations, customer trust, and future compliance readiness.
+> All company names, risks, users, vendors, and data are synthetic and safe for public GitHub use.
 
-## Target Roles
+---
 
-GRC Analyst, Security Solutions Consultant, Cybersecurity Analyst
+## Business Scenario
 
-## Tools and Concepts Used
+A 25-person professional services company called **Northstar Dental Billing LLC** handles customer billing records, employee data, and SaaS-based operational workflows. The company does not have a full security team, but leadership wants to improve security readiness before signing larger client contracts.
 
-Policy writing, NIST CSF-style control thinking, incident response procedure design, security awareness documentation
+The company requested a lightweight security documentation package that could help with:
 
-## Key Findings
+- Safer employee behavior
+- Consistent account access practices
+- Clear incident response steps
+- Better third-party vendor review
+- Stronger customer security questionnaire responses
+- Practical alignment to common cybersecurity frameworks
 
-| Severity / Type | Finding | Why It Matters |
+---
+
+## Role Alignment
+
+This project is most relevant for:
+
+- GRC Analyst
+- Security Implementation Specialist
+- Security Solutions Consultant
+- Cybersecurity Analyst, governance-focused
+- IAM Analyst, access-control-focused
+- SaaS security documentation and onboarding roles
+
+---
+
+## Deliverables Created
+
+| Deliverable | Purpose | Evidence File |
 |---|---|---|
-| Policy | Acceptable Use Policy | Defines safe use of company systems and data. |
-| Policy | Password and MFA Standard | Sets minimum authentication expectations. |
-| Procedure | Incident Response Procedure | Creates a repeatable process for triage, containment, eradication, and recovery. |
-| Checklist | Vendor Risk Review | Helps assess third-party access and data handling risk. |
-| Guide | Security Awareness One-Pager | Turns security expectations into employee-friendly language. |
+| Security policy pack | Establish baseline security expectations | `policies/` |
+| Incident response procedure | Define repeatable response steps | `procedures/incident-response-procedure.md` |
+| Control mapping | Connect documents to NIST CSF 2.0 and CIS Controls | `evidence/control-mapping.md` |
+| Risk register | Show risk prioritization and remediation logic | `evidence/risk-register.md` |
+| Vendor risk scoring example | Demonstrate third-party security review | `evidence/vendor-risk-scoring.md` |
+| Before/after maturity analysis | Show improvement created by the documentation | `evidence/before-after-analysis.md` |
+| Changelog | Show iteration and project improvement | `CHANGELOG.md` |
 
-## What I Did
+---
 
-1. Defined the scope and business scenario.
-2. Reviewed synthetic evidence/data.
-3. Identified security issues and mapped them to business risk.
-4. Prioritized findings by severity and likelihood.
-5. Wrote remediation or improvement recommendations.
-6. Documented the project in a way a recruiter, hiring manager, or technical reviewer can follow.
+## Evidence of Work
+
+This project goes beyond writing templates. It shows how I made security governance decisions.
+
+### 1. Control Mapping
+
+I mapped each document to relevant NIST CSF 2.0 functions and practical CIS Controls categories. This helps show that the documents are not random policies. Each one supports a security outcome.
+
+See: [`evidence/control-mapping.md`](./evidence/control-mapping.md)
+
+### 2. Risk Register
+
+I created a simple risk scoring model using:
+
+```text
+Risk Score = Likelihood x Impact
+```
+
+This demonstrates prioritization instead of treating all security issues as equal.
+
+See: [`evidence/risk-register.md`](./evidence/risk-register.md)
+
+### 3. Vendor Risk Scoring
+
+I created a vendor risk scoring example for a simulated SaaS vendor. This shows how a small business could assess third-party risk before approving a tool.
+
+See: [`evidence/vendor-risk-scoring.md`](./evidence/vendor-risk-scoring.md)
+
+### 4. Before/After Improvement Logic
+
+I documented the company’s assumed starting state, the improvement made by each deliverable, and the remaining gaps.
+
+See: [`evidence/before-after-analysis.md`](./evidence/before-after-analysis.md)
+
+---
+
+## Frameworks Referenced
+
+This project uses lightweight mapping to:
+
+- **NIST Cybersecurity Framework 2.0**
+- **CIS Controls v8 / v8.1 concepts**
+
+The purpose is not to claim full compliance. The purpose is to show practical beginner-level GRC thinking: mapping business needs, risks, policies, and controls.
+
+---
 
 ## Screenshots
 
-![Project Summary](./screenshots/project-summary.svg)
+| Screenshot | What It Shows |
+|---|---|
+| `screenshots/control-mapping-overview.svg` | How documents map to controls |
+| `screenshots/risk-register-overview.svg` | Risk scoring and prioritization |
+| `screenshots/vendor-risk-scorecard.svg` | Vendor review logic |
+| `screenshots/policy-pack-overview.svg` | Policy deliverables created |
+
+---
+
+## How This Would Be Used in a Real Company
+
+A small company could use this package as a starting point to:
+
+1. Set clear employee security expectations.
+2. Standardize onboarding and offboarding.
+3. Require MFA for important systems.
+4. Review vendor risk before approving new SaaS tools.
+5. Respond more consistently to suspected security incidents.
+6. Prepare better answers for customer security questionnaires.
+
+This would not replace a formal audit, legal review, compliance program, or enterprise security team. It is a practical baseline designed for a small organization that needs structure.
+
+---
 
 ## Interview Explanation
 
-This project shows my documentation strength. Security work only creates value when people can understand and follow it, and this pack demonstrates that I can turn controls into usable guidance.
+Use this explanation:
 
-## How to Confidently Explain This Project
+> I created this project to demonstrate beginner GRC and security documentation skills. I started with a realistic small-business scenario, created baseline security policies and procedures, then improved the project by adding evidence of work: control mapping, a risk register, vendor risk scoring, before/after maturity logic, screenshots, and a changelog. My goal was to show not just that I can write policies, but that I understand why each document exists and how it reduces business risk.
 
-Use this structure:
+---
 
-1. **Situation:** Explain the business problem.
-2. **Task:** Explain what security question you were trying to answer.
-3. **Action:** Explain your investigation or review steps.
-4. **Result:** Explain what you found and what you recommended.
+## What This Demonstrates
 
-Example:
+- Security documentation
+- GRC thinking
+- Control mapping
+- Basic risk scoring
+- Vendor risk review
+- Incident response process design
+- Access control governance
+- Executive-ready communication
+- Practical security implementation planning
 
-> I created this project to practice the workflow used by security teams: define scope, collect evidence, identify risk, prioritize what matters, and communicate next steps. I used synthetic data so the project is safe to publish, but the process mirrors how entry-level analysts contribute in real environments.
+---
 
-## Beginner Mistakes This Project Avoids
+## Limitations
 
-- Listing tools without explaining the security outcome.
-- Treating every alert or finding as equally important.
-- Forgetting to explain business impact.
-- Publishing real logs, IP addresses, client data, or secrets.
-- Writing notes that only the author can understand.
+This is a beginner portfolio project using synthetic data. It does not claim:
 
-## Files Included
+- Formal compliance certification
+- Legal approval
+- Full NIST CSF implementation
+- Full CIS Controls implementation
+- Production security assessment
+- Real customer or company evidence
 
-- `README.md` - Project overview and explanation.
-- `data/sample-data.csv` - Synthetic evidence used for the project.
-- `reports/final-report.md` - Polished report-style writeup.
-- `screenshots/project-summary.svg` - Public-safe screenshot mockup.
+---
+
+## Repository Structure
+
+```text
+.
+├── README.md
+├── CHANGELOG.md
+├── HOW_TO_EXPLAIN.md
+├── policies/
+├── procedures/
+├── evidence/
+├── data/
+├── reports/
+├── screenshots/
+└── templates/
+```

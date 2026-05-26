@@ -1,0 +1,7 @@
+deliverable,security_objective,nist_csf_2_alignment,cis_controls_alignment,evidence_file
+Acceptable Use Policy,Reduce unsafe employee behavior,Govern; Protect,Security Awareness and Skills Training; Data Protection,policies/acceptable-use-policy.md
+Password and MFA Standard,Strengthen authentication,Protect,Account Management; Access Control Management,policies/password-mfa-standard.md
+Access Control Standard,Enforce least privilege,Govern; Protect,Account Management; Access Control Management,policies/access-control-standard.md
+Incident Response Procedure,Standardize response,Respond; Recover,Incident Response Management,procedures/incident-response-procedure.md
+Vendor Risk Review Checklist,Review third-party risk,Govern; Identify,Service Provider Management,templates/vendor-risk-review-checklist.md
+Security Awareness One-Pager,Improve employee behavior and reporting,Govern; Protect; Detect,Security Awareness and Skills Training,templates/security-awareness-one-pager.md

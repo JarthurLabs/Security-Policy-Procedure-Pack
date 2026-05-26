@@ -1,0 +1,8 @@
+category,weight,score,weighted_score,notes
+Data sensitivity,0.2,4,0.8,Vendor may store billing-related documents
+Authentication controls,0.2,2,0.4,Supports MFA and SSO
+Security documentation,0.15,3,0.45,Provides security page but no full report in basic plan
+Incident notification,0.15,3,0.45,Notification language is general
+Data deletion/export,0.1,2,0.2,Supports export and deletion requests
+Subprocessors,0.1,3,0.3,Subprocessor list exists but needs review
+Business criticality,0.1,3,0.3,Useful workflow but not mission-critical

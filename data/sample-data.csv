@@ -1,0 +1,6 @@
+severity_or_type,finding,business_impact,recommended_action
+Policy,Acceptable Use Policy,Defines safe use of company systems and data.,"Validate evidence, assign owner, document remediation, and retest."
+Policy,Password and MFA Standard,Sets minimum authentication expectations.,"Validate evidence, assign owner, document remediation, and retest."
+Procedure,Incident Response Procedure,"Creates a repeatable process for triage, containment, eradication, and recovery.","Validate evidence, assign owner, document remediation, and retest."
+Checklist,Vendor Risk Review,Helps assess third-party access and data handling risk.,"Validate evidence, assign owner, document remediation, and retest."
+Guide,Security Awareness One-Pager,Turns security expectations into employee-friendly language.,"Validate evidence, assign owner, document remediation, and retest."

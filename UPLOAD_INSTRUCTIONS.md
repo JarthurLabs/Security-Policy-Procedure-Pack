@@ -73,3 +73,9 @@ customer-assurance
 incident-response
 saas-security
 ```
+
+## Suggested Commit Message for This Update
+
+```text
+Add inline README screenshots for core governance artifacts
+```

@@ -88,6 +88,14 @@ See: [`program/security-program-traceability-matrix.md`](./program/security-prog
 
 ---
 
+
+### Risk Register Snapshot
+
+The risk register is used to prioritize which governance gaps should be addressed first.
+
+![Risk Register](./screenshots/risk-register-inline.svg)
+
+
 ## IAM Governance Highlights
 
 Identity and access management is the strongest operational focus of this program. The IAM section defines how access is requested, approved, changed, reviewed, and removed.
@@ -105,6 +113,20 @@ Key IAM deliverables:
 - Offboarding checklist
 
 ---
+
+
+### IAM Review Sheet Example
+
+The access review sheet shows how user access can be validated against job role and business need.
+
+![IAM Review Sheet](./screenshots/iam-review-sheet-inline.svg)
+
+### Access Review Process
+
+The review process is documented so access validation is repeatable and evidence can be retained.
+
+![Access Review Process](./screenshots/access-review-process-inline.svg)
+
 
 ## Technical Validation Layer
 
@@ -143,6 +165,14 @@ The response pack includes evidence references for questions like:
 
 ---
 
+
+### Vendor Risk Scorecard Snapshot
+
+The vendor scorecard is used to document a conditional approval decision and the evidence behind it.
+
+![Vendor Risk Scorecard](./screenshots/vendor-scorecard-inline.svg)
+
+
 ## Framework Alignment
 
 This repository uses practical mapping to:
@@ -153,6 +183,14 @@ This repository uses practical mapping to:
 The mapping is intentionally lightweight. It is used to organize governance work, not to claim formal compliance certification.
 
 ---
+
+
+### Technical Audit Checklist Example
+
+This checklist is an example of how governance requirements can be validated against actual SaaS administration settings.
+
+![Audit Checklist](./screenshots/audit-checklist-inline.svg)
+
 
 ## How This Would Operate in a Real Company
 

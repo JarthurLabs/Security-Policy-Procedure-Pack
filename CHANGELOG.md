@@ -1,6 +1,21 @@
 # Changelog
 
-## v3.0 - Operational Security Governance Upgrade
+## v4.0 - README Inline Evidence Update
+
+### Added
+- Added inline README screenshots for risk register, IAM review sheet, vendor scorecard, access review process, and audit checklist
+- Added `screenshots/risk-register-inline.svg`
+- Added `screenshots/iam-review-sheet-inline.svg`
+- Added `screenshots/vendor-scorecard-inline.svg`
+- Added `screenshots/access-review-process-inline.svg`
+- Added `screenshots/audit-checklist-inline.svg`
+
+### Changed
+- Updated `README.md` to embed the new screenshots directly in the relevant sections
+- Improved visual evidence so reviewers can see core artifacts without clicking through the repository
+
+## v3.0 - Security Governance Program Expansion
+de
 
 ### Added
 

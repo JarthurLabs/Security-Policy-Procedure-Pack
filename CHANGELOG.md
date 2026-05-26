@@ -1,5 +1,12 @@
 # Changelog
 
+## v5.0 - Operational Realism Pass
+
+- Reduced overly polished consulting-style language in README and reports
+- Added realistic uncertainty, validation gaps, and lessons learned
+- Clarified that simulated checklists do not prove live control operation
+- Added REALISM_REVIEW_NOTES.md and LESSONS_LEARNED.md
+
 ## v4.0 - README Inline Evidence Update
 
 ### Added

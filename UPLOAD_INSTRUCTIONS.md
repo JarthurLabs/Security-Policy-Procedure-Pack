@@ -1,8 +1,18 @@
 # Upload Instructions
 
-## For the Existing GitHub Repository
+## Repository Name
 
-Open your `security-policy-procedure-pack` repository and replace the old files with this updated v2 package.
+```text
+security-policy-procedure-pack
+```
+
+## Repository Description
+
+```text
+Lightweight security governance program covering IAM, GRC traceability, vendor risk, customer assurance, incident response, and technical validation.
+```
+
+## Upload Method
 
 Upload the contents of this folder directly into the repository root.
 
@@ -11,9 +21,13 @@ Correct:
 ```text
 README.md
 CHANGELOG.md
-HOW_TO_EXPLAIN.md
+COMMIT_GUIDE.md
 policies/
 procedures/
+iam-governance/
+program/
+customer-assurance/
+technical-validation/
 evidence/
 data/
 reports/
@@ -24,16 +38,23 @@ templates/
 Incorrect:
 
 ```text
-security-policy-procedure-pack-v2/
+security-policy-procedure-pack-v3/
   README.md
 ```
 
-## Commit Message
-
-Use:
+## Recommended Commit Message
 
 ```text
-Improve GRC policy project with control mapping and risk evidence
+Add IAM governance and security program traceability
+```
+
+## Suggested Follow-Up Commits
+
+```text
+Add customer security questionnaire response pack
+Add Google Workspace security validation checklist
+Add security metrics and remediation roadmap
+Update GRC evidence with IAM lifecycle controls
 ```
 
 ## Suggested GitHub Topics
@@ -41,12 +62,14 @@ Improve GRC policy project with control mapping and risk evidence
 ```text
 cybersecurity
 grc
-security-policy
-risk-management
+iam
+access-control
+security-governance
+vendor-risk
 nist-csf
 cis-controls
-vendor-risk
-incident-response
-access-control
 security-documentation
+customer-assurance
+incident-response
+saas-security
 ```

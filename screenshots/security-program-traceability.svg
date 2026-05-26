@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#f8fafc"/>
+<rect x="30" y="30" width="1220" height="660" rx="24" fill="#e2e8f0"/>
+<rect x="50" y="50" width="1180" height="92" rx="16" fill="#0f172a"/>
+<text x="80" y="88" font-size="30" font-family="Arial" fill="#ffffff" font-weight="700">Security Program Traceability Matrix</text>
+<text x="80" y="120" font-size="18" font-family="Arial" fill="#cbd5e1">Business risk linked to policy, control, procedure, owner, evidence, and status</text>
+<rect x="50" y="165" width="270" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="60" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Risk</text>
+<rect x="320" y="165" width="250" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="330" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Policy</text>
+<rect x="570" y="165" width="300" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="580" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Control</text>
+<rect x="870" y="165" width="210" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="880" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Owner</text>
+<rect x="1080" y="165" width="150" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="1090" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Status</text>
+<rect x="50" y="211" width="270" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="240" font-size="14" font-family="Arial" fill="#0f172a">Credential theft</text>
+<rect x="320" y="211" width="250" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="330" y="240" font-size="14" font-family="Arial" fill="#0f172a">Password and MFA Standard</text>
+<rect x="570" y="211" width="300" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="580" y="240" font-size="14" font-family="Arial" fill="#0f172a">MFA required for critical systems</text>
+<rect x="870" y="211" width="210" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="880" y="240" font-size="14" font-family="Arial" fill="#0f172a">IT Administrator</text>
+<rect x="1080" y="211" width="150" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1090" y="240" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<rect x="50" y="257" width="270" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="286" font-size="14" font-family="Arial" fill="#0f172a">Orphaned accounts</text>
+<rect x="320" y="257" width="250" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="330" y="286" font-size="14" font-family="Arial" fill="#0f172a">Access Control Standard</text>
+<rect x="570" y="257" width="300" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="580" y="286" font-size="14" font-family="Arial" fill="#0f172a">Same-day access removal</text>
+<rect x="870" y="257" width="210" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="880" y="286" font-size="14" font-family="Arial" fill="#0f172a">IT Administrator</text>
+<rect x="1080" y="257" width="150" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1090" y="286" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<rect x="50" y="303" width="270" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="332" font-size="14" font-family="Arial" fill="#0f172a">Privilege creep</text>
+<rect x="320" y="303" width="250" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="330" y="332" font-size="14" font-family="Arial" fill="#0f172a">Access Control Standard</text>
+<rect x="570" y="303" width="300" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="580" y="332" font-size="14" font-family="Arial" fill="#0f172a">Quarterly access review</text>
+<rect x="870" y="303" width="210" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="880" y="332" font-size="14" font-family="Arial" fill="#0f172a">Operations Manager</text>
+<rect x="1080" y="303" width="150" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1090" y="332" font-size="14" font-family="Arial" fill="#92400e">In Progress</text>
+<rect x="50" y="349" width="270" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="378" font-size="14" font-family="Arial" fill="#0f172a">Unauthorized admin access</text>
+<rect x="320" y="349" width="250" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="330" y="378" font-size="14" font-family="Arial" fill="#0f172a">Access Control Standard</text>
+<rect x="570" y="349" width="300" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="580" y="378" font-size="14" font-family="Arial" fill="#0f172a">Privileged approval workflow</text>
+<rect x="870" y="349" width="210" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="880" y="378" font-size="14" font-family="Arial" fill="#0f172a">System Owner</text>
+<rect x="1080" y="349" width="150" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1090" y="378" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<rect x="50" y="395" width="270" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="424" font-size="14" font-family="Arial" fill="#0f172a">Vendor data exposure</text>
+<rect x="320" y="395" width="250" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="330" y="424" font-size="14" font-family="Arial" fill="#0f172a">Vendor Risk Standard</text>
+<rect x="570" y="395" width="300" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="580" y="424" font-size="14" font-family="Arial" fill="#0f172a">Vendor risk scorecard</text>
+<rect x="870" y="395" width="210" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="880" y="424" font-size="14" font-family="Arial" fill="#0f172a">Business Owner</text>
+<rect x="1080" y="395" width="150" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1090" y="424" font-size="14" font-family="Arial" fill="#92400e">In Progress</text>
+<rect x="50" y="441" width="270" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="470" font-size="14" font-family="Arial" fill="#0f172a">Delayed incident response</text>
+<rect x="320" y="441" width="250" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="330" y="470" font-size="14" font-family="Arial" fill="#0f172a">Incident Response Procedure</text>
+<rect x="570" y="441" width="300" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="580" y="470" font-size="14" font-family="Arial" fill="#0f172a">Escalation and evidence capture</text>
+<rect x="870" y="441" width="210" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="880" y="470" font-size="14" font-family="Arial" fill="#0f172a">Operations Manager</text>
+<rect x="1080" y="441" width="150" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1090" y="470" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<rect x="50" y="487" width="270" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="516" font-size="14" font-family="Arial" fill="#0f172a">Employee mishandles data</text>
+<rect x="320" y="487" width="250" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="330" y="516" font-size="14" font-family="Arial" fill="#0f172a">Acceptable Use Policy</text>
+<rect x="570" y="487" width="300" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="580" y="516" font-size="14" font-family="Arial" fill="#0f172a">Security awareness guidance</text>
+<rect x="870" y="487" width="210" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="880" y="516" font-size="14" font-family="Arial" fill="#0f172a">Operations Manager</text>
+<rect x="1080" y="487" width="150" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1090" y="516" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<rect x="50" y="533" width="270" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="562" font-size="14" font-family="Arial" fill="#0f172a">Customer assurance gaps</text>
+<rect x="320" y="533" width="250" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="330" y="562" font-size="14" font-family="Arial" fill="#0f172a">Security governance program</text>
+<rect x="570" y="533" width="300" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="580" y="562" font-size="14" font-family="Arial" fill="#0f172a">Evidence-backed questionnaire response</text>
+<rect x="870" y="533" width="210" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="880" y="562" font-size="14" font-family="Arial" fill="#0f172a">Operations Manager</text>
+<rect x="1080" y="533" width="150" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1090" y="562" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<rect x="50" y="579" width="270" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="608" font-size="14" font-family="Arial" fill="#0f172a">Weak external sharing controls</text>
+<rect x="320" y="579" width="250" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="330" y="608" font-size="14" font-family="Arial" fill="#0f172a">Access Control Standard</text>
+<rect x="570" y="579" width="300" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="580" y="608" font-size="14" font-family="Arial" fill="#0f172a">External sharing review</text>
+<rect x="870" y="579" width="210" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="880" y="608" font-size="14" font-family="Arial" fill="#0f172a">IT Administrator</text>
+<rect x="1080" y="579" width="150" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1090" y="608" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<text x="50" y="650" font-size="18" font-family="Arial" fill="#475569">Synthetic operational evidence screenshot for public GitHub documentation</text>
+</svg>

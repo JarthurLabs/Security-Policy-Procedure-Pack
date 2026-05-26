@@ -1,31 +1,19 @@
 # Security Awareness One-Pager
 
-## Stop and Report
-
-Report these immediately:
+## Report Immediately
 
 - Unexpected MFA prompts
 - Suspicious login alerts
-- Requests for gift cards, wire transfers, or password resets
-- Emails asking you to open strange attachments
-- Browser pop-ups claiming your device is infected
+- Requests for passwords or MFA codes
 - Lost or stolen devices
-- Accidental sharing of customer information
+- Accidental customer data sharing
+- Strange attachments or links
+- Browser pop-ups claiming infection
 
-## Password Rules
+## Basic Rules
 
-- Use a unique password for every work account.
-- Store passwords only in an approved password manager.
-- Never share passwords or MFA codes.
-- Report unexpected MFA prompts.
-
-## Data Handling Rules
-
-- Do not send customer data to personal email.
-- Do not upload company files to unapproved tools.
-- Share files only with approved users.
-- Ask before sending sensitive information externally.
-
-## When in Doubt
-
-Pause, take a screenshot, and contact your manager or IT contact.
+- Use the approved password manager.
+- Do not reuse work passwords.
+- Do not share MFA codes.
+- Do not upload customer data to unapproved tools.
+- Ask before granting external file access.

@@ -1,7 +1,9 @@
-risk_id,risk,likelihood,impact,inherent_risk_score,existing_control_gap,recommended_control,owner,status
-R-001,Former employees or contractors retain SaaS access,4,5,20,No documented offboarding checklist,Access control standard and offboarding checklist,Operations Manager,Open
-R-002,Weak passwords or missing MFA lead to account takeover,4,5,20,MFA not required for all business-critical apps,Password and MFA standard,IT Admin,In Progress
-R-003,Employees mishandle customer billing data,3,5,15,No acceptable use or data handling rules,Acceptable use policy and awareness guide,Compliance Lead,Open
-R-004,Security incidents are handled inconsistently,3,4,12,No incident response procedure,Incident response procedure,Operations Manager,In Progress
-R-005,New SaaS vendors are approved without security review,3,4,12,No vendor review checklist,Vendor risk review checklist,Department Manager,Open
-R-006,Employees fail to report phishing attempts,3,3,9,No security awareness guidance,Security awareness one-pager,IT Admin,Planned
+risk_id,risk,likelihood,impact,score,control,owner,status
+R-001,Former employee retains SaaS access,4,5,20,Leaver workflow,IT Administrator,Implemented
+R-002,Missing MFA enables account takeover,4,5,20,MFA enforcement matrix,IT Administrator,Implemented
+R-003,Excessive admin access causes unauthorized changes,3,5,15,Privileged approval workflow,Operations Manager,Implemented
+R-004,Role changes create privilege creep,3,4,12,Quarterly access review,Operations Manager,In Progress
+R-005,New SaaS vendor mishandles sensitive data,3,4,12,Vendor risk scorecard,Business Owner,In Progress
+R-006,Incident response is delayed,3,4,12,Incident response procedure,Operations Manager,Implemented
+R-007,Customer questionnaire answered inconsistently,3,3,9,Questionnaire response pack,Operations Manager,Implemented
+R-008,SaaS settings drift from policy requirements,3,3,9,Technical validation checklist,IT Administrator,Planned

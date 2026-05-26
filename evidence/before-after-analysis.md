@@ -1,51 +1,35 @@
 # Before and After Maturity Analysis
 
-## Purpose
+## Before
 
-This document shows the improvement created by the policy and procedure pack.
-
-## Starting State
-
-| Area | Before |
+| Area | Starting State |
 |---|---|
-| Access control | Informal access approvals; no documented offboarding process |
-| Passwords and MFA | Inconsistent MFA expectations |
-| Incident response | Employees unsure who to contact or what evidence to preserve |
-| Vendor risk | New tools approved based on business need, not security review |
-| Employee awareness | No simple security guidance for common risks |
-| Documentation | Policies not centralized or versioned |
+| IAM | Access granted informally; no JML workflow |
+| MFA | Inconsistent requirements across systems |
+| Vendor Risk | Vendors approved based mostly on business need |
+| Incident Response | No standardized triage or evidence process |
+| Customer Assurance | Responses handled ad hoc |
+| Technical Validation | No defined SaaS security review checklist |
+| Security Ownership | Responsibilities unclear |
 
-## Improved State
+## After
 
-| Area | After |
+| Area | Improved State |
 |---|---|
-| Access control | Access control standard and offboarding checklist created |
-| Passwords and MFA | Password and MFA standard defines minimum expectations |
-| Incident response | Step-by-step incident response procedure created |
-| Vendor risk | Vendor risk review checklist and scoring model added |
-| Employee awareness | Security awareness one-pager created |
-| Documentation | Centralized GitHub repository with version history |
+| IAM | JML workflow, access request form, access review, privileged approval |
+| MFA | MFA enforcement matrix defines required systems |
+| Vendor Risk | Vendor risk scorecard and review checklist created |
+| Incident Response | Response procedure and evidence guidance created |
+| Customer Assurance | Questionnaire response pack linked to evidence |
+| Technical Validation | Google Workspace-style checklist added |
+| Security Ownership | Ownership chart, KPIs, roadmap, and review schedule created |
 
 ## Remaining Gaps
 
-| Gap | Why It Still Matters | Recommended Next Step |
-|---|---|---|
-| Policies not formally approved | Draft policies need business ownership | Add approval table with owner and review date |
-| No evidence of actual implementation | Documents alone do not prove controls are active | Add screenshots of MFA settings or access reviews in future lab |
-| No recurring review cycle | Policies can become stale | Add quarterly review reminder |
-| No employee training completion record | Awareness requires tracking | Add simple training acknowledgement log |
-| No incident tabletop exercise | Procedure should be tested | Add tabletop exercise scenario |
-
-## Maturity Improvement Summary
-
-| Domain | Before | After |
-|---|---:|---:|
-| Governance | 1/5 | 3/5 |
-| Access Control | 1/5 | 3/5 |
-| Incident Response | 1/5 | 3/5 |
-| Vendor Risk | 1/5 | 3/5 |
-| Awareness | 1/5 | 2/5 |
-
-## How to Explain This in an Interview
-
-> The before-and-after analysis shows that I understand policies are only valuable if they improve a real process. I documented the starting state, the improvement made by the project, and the remaining gaps so the project feels realistic rather than pretending the company is suddenly compliant.
+| Gap | Next Step |
+|---|---|
+| Controls are documented but not live-tested | Add real admin console screenshots in a private lab |
+| Access review is simulated | Complete a sample access review with synthetic users |
+| Vendor review is simulated | Add a second vendor comparison |
+| Technical validation is checklist-based | Add actual Google Workspace or Microsoft Entra lab screenshots |
+| Metrics are proposed | Add a monthly metrics dashboard |

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#f8fafc"/>
+<rect x="30" y="30" width="1220" height="660" rx="24" fill="#e2e8f0"/>
+<rect x="50" y="50" width="1180" height="92" rx="16" fill="#0f172a"/>
+<text x="80" y="88" font-size="30" font-family="Arial" fill="#ffffff" font-weight="700">IAM Governance Overview</text>
+<text x="80" y="120" font-size="18" font-family="Arial" fill="#cbd5e1">Access lifecycle, MFA, privileged access, and quarterly reviews</text>
+<rect x="50" y="165" width="280" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="60" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Process</text>
+<rect x="330" y="165" width="460" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="340" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Purpose</text>
+<rect x="790" y="165" width="250" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="800" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Owner</text>
+<rect x="1040" y="165" width="190" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="1050" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Status</text>
+<rect x="50" y="211" width="280" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="240" font-size="14" font-family="Arial" fill="#0f172a">Joiner workflow</text>
+<rect x="330" y="211" width="460" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="340" y="240" font-size="14" font-family="Arial" fill="#0f172a">Provision access based on role</text>
+<rect x="790" y="211" width="250" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="800" y="240" font-size="14" font-family="Arial" fill="#0f172a">Manager + IT</text>
+<rect x="1040" y="211" width="190" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1050" y="240" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<rect x="50" y="257" width="280" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="286" font-size="14" font-family="Arial" fill="#0f172a">Mover workflow</text>
+<rect x="330" y="257" width="460" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="340" y="286" font-size="14" font-family="Arial" fill="#0f172a">Remove old access and add new access</text>
+<rect x="790" y="257" width="250" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="800" y="286" font-size="14" font-family="Arial" fill="#0f172a">Manager + IT</text>
+<rect x="1040" y="257" width="190" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1050" y="286" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<rect x="50" y="303" width="280" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="332" font-size="14" font-family="Arial" fill="#0f172a">Leaver workflow</text>
+<rect x="330" y="303" width="460" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="340" y="332" font-size="14" font-family="Arial" fill="#0f172a">Remove access same day</text>
+<rect x="790" y="303" width="250" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="800" y="332" font-size="14" font-family="Arial" fill="#0f172a">IT Administrator</text>
+<rect x="1040" y="303" width="190" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1050" y="332" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<rect x="50" y="349" width="280" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="378" font-size="14" font-family="Arial" fill="#0f172a">Access review</text>
+<rect x="330" y="349" width="460" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="340" y="378" font-size="14" font-family="Arial" fill="#0f172a">Validate access quarterly</text>
+<rect x="790" y="349" width="250" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="800" y="378" font-size="14" font-family="Arial" fill="#0f172a">Operations Manager</text>
+<rect x="1040" y="349" width="190" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1050" y="378" font-size="14" font-family="Arial" fill="#92400e">In Progress</text>
+<rect x="50" y="395" width="280" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="424" font-size="14" font-family="Arial" fill="#0f172a">Privileged access</text>
+<rect x="330" y="395" width="460" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="340" y="424" font-size="14" font-family="Arial" fill="#0f172a">Require enhanced approval</text>
+<rect x="790" y="395" width="250" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="800" y="424" font-size="14" font-family="Arial" fill="#0f172a">System Owner</text>
+<rect x="1040" y="395" width="190" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1050" y="424" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<rect x="50" y="441" width="280" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="470" font-size="14" font-family="Arial" fill="#0f172a">MFA matrix</text>
+<rect x="330" y="441" width="460" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="340" y="470" font-size="14" font-family="Arial" fill="#0f172a">Define required MFA coverage</text>
+<rect x="790" y="441" width="250" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="800" y="470" font-size="14" font-family="Arial" fill="#0f172a">IT Administrator</text>
+<rect x="1040" y="441" width="190" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1050" y="470" font-size="14" font-family="Arial" fill="#166534">Implemented</text>
+<text x="50" y="650" font-size="18" font-family="Arial" fill="#475569">Synthetic operational evidence screenshot for public GitHub documentation</text>
+</svg>

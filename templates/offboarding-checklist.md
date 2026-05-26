@@ -1,31 +1,13 @@
 # Offboarding Checklist
 
-## User Information
-
-| Field | Response |
-|---|---|
-| Employee/contractor name |  |
-| Manager |  |
-| Last working day |  |
-| Offboarding owner |  |
-
-## Access Removal Checklist
-
-| System | Removed? | Evidence |
-|---|---|---|
-| Email |  |  |
-| File storage |  |  |
-| CRM |  |  |
-| Finance/payroll |  |  |
-| Password manager |  |  |
-| Project management tool |  |  |
-| Shared inboxes |  |  |
-| Admin groups |  |  |
-
-## Completion
-
-| Field | Response |
-|---|---|
-| Completed by |  |
-| Date completed |  |
-| Manager confirmed |  |
+| Task | Owner | Completed | Evidence |
+|---|---|---|---|
+| Confirm final working day | Manager |  |  |
+| Disable email account | IT Administrator |  |  |
+| Revoke active sessions | IT Administrator |  |  |
+| Remove file storage access | IT Administrator |  |  |
+| Remove CRM access | IT Administrator |  |  |
+| Remove billing system access | IT Administrator |  |  |
+| Remove password manager access | IT Administrator |  |  |
+| Transfer file ownership | Manager + IT |  |  |
+| Confirm completion | Operations Manager |  |  |

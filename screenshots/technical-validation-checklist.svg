@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#f8fafc"/>
+<rect x="30" y="30" width="1220" height="660" rx="24" fill="#e2e8f0"/>
+<rect x="50" y="50" width="1180" height="92" rx="16" fill="#0f172a"/>
+<text x="80" y="88" font-size="30" font-family="Arial" fill="#ffffff" font-weight="700">Technical Validation Checklist</text>
+<text x="80" y="120" font-size="18" font-family="Arial" fill="#cbd5e1">SaaS settings mapped back to governance requirements</text>
+<rect x="50" y="165" width="140" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="60" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Check</text>
+<rect x="190" y="165" width="270" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="200" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Control Area</text>
+<rect x="460" y="165" width="560" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="470" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Expected State</text>
+<rect x="1020" y="165" width="210" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="1030" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Status</text>
+<rect x="50" y="211" width="140" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="240" font-size="14" font-family="Arial" fill="#0f172a">GW-001</text>
+<rect x="190" y="211" width="270" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="200" y="240" font-size="14" font-family="Arial" fill="#0f172a">MFA</text>
+<rect x="460" y="211" width="560" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="470" y="240" font-size="14" font-family="Arial" fill="#0f172a">Required for all active users</text>
+<rect x="1020" y="211" width="210" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1030" y="240" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<rect x="50" y="257" width="140" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="286" font-size="14" font-family="Arial" fill="#0f172a">GW-002</text>
+<rect x="190" y="257" width="270" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="200" y="286" font-size="14" font-family="Arial" fill="#0f172a">Admin Access</text>
+<rect x="460" y="257" width="560" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="470" y="286" font-size="14" font-family="Arial" fill="#0f172a">Only approved named admins</text>
+<rect x="1020" y="257" width="210" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1030" y="286" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<rect x="50" y="303" width="140" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="332" font-size="14" font-family="Arial" fill="#0f172a">GW-003</text>
+<rect x="190" y="303" width="270" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="200" y="332" font-size="14" font-family="Arial" fill="#0f172a">Admin MFA</text>
+<rect x="460" y="303" width="560" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="470" y="332" font-size="14" font-family="Arial" fill="#0f172a">100% admin MFA</text>
+<rect x="1020" y="303" width="210" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1030" y="332" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<rect x="50" y="349" width="140" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="378" font-size="14" font-family="Arial" fill="#0f172a">GW-004</text>
+<rect x="190" y="349" width="270" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="200" y="378" font-size="14" font-family="Arial" fill="#0f172a">Inactive Users</text>
+<rect x="460" y="349" width="560" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="470" y="378" font-size="14" font-family="Arial" fill="#0f172a">No unexplained inactive users over 30 </text>
+<rect x="1020" y="349" width="210" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1030" y="378" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<rect x="50" y="395" width="140" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="424" font-size="14" font-family="Arial" fill="#0f172a">GW-005</text>
+<rect x="190" y="395" width="270" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="200" y="424" font-size="14" font-family="Arial" fill="#0f172a">External Sharing</text>
+<rect x="460" y="395" width="560" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="470" y="424" font-size="14" font-family="Arial" fill="#0f172a">Limited to approved business need</text>
+<rect x="1020" y="395" width="210" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1030" y="424" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<rect x="50" y="441" width="140" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="470" font-size="14" font-family="Arial" fill="#0f172a">GW-006</text>
+<rect x="190" y="441" width="270" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="200" y="470" font-size="14" font-family="Arial" fill="#0f172a">Groups</text>
+<rect x="460" y="441" width="560" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="470" y="470" font-size="14" font-family="Arial" fill="#0f172a">Owners assigned to sensitive groups</text>
+<rect x="1020" y="441" width="210" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1030" y="470" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<rect x="50" y="487" width="140" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="516" font-size="14" font-family="Arial" fill="#0f172a">GW-007</text>
+<rect x="190" y="487" width="270" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="200" y="516" font-size="14" font-family="Arial" fill="#0f172a">Audit Logs</text>
+<rect x="460" y="487" width="560" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="470" y="516" font-size="14" font-family="Arial" fill="#0f172a">Logs enabled and reviewable</text>
+<rect x="1020" y="487" width="210" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1030" y="516" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<rect x="50" y="533" width="140" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="562" font-size="14" font-family="Arial" fill="#0f172a">GW-008</text>
+<rect x="190" y="533" width="270" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="200" y="562" font-size="14" font-family="Arial" fill="#0f172a">Recovery Options</text>
+<rect x="460" y="533" width="560" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="470" y="562" font-size="14" font-family="Arial" fill="#0f172a">Recovery options reviewed</text>
+<rect x="1020" y="533" width="210" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1030" y="562" font-size="14" font-family="Arial" fill="#92400e">Planned</text>
+<text x="50" y="650" font-size="18" font-family="Arial" fill="#475569">Synthetic operational evidence screenshot for public GitHub documentation</text>
+</svg>

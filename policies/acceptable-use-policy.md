@@ -1,56 +1,31 @@
 # Acceptable Use Policy
 
-## Document Owner
+## Owner
 
 Operations Manager
 
 ## Purpose
 
-This policy defines acceptable use of company systems, applications, accounts, devices, and data. The goal is to reduce preventable security incidents caused by unsafe behavior.
+Define acceptable use of company systems, accounts, devices, and data.
 
-## Scope
+## Requirements
 
-This policy applies to all employees, contractors, and temporary users with access to company systems.
+Employees and contractors must:
 
-## Policy Requirements
-
-### 1. Business Use
-
-Company systems must be used for approved business purposes. Limited personal use is acceptable only when it does not create security, legal, or productivity risk.
-
-### 2. Account Security
+- Use company systems for approved business purposes
+- Protect customer, billing, and employee data
+- Report suspicious activity promptly
+- Use approved tools for company work
+- Follow password and MFA requirements
 
 Users must not:
 
-- Share passwords
-- Share MFA codes
-- Use another employee’s account
-- Store passwords in notes, spreadsheets, or chat messages
-- Bypass security controls
-
-### 3. Data Handling
-
-Users must handle company and customer data carefully.
-
-Users must not:
-
-- Upload customer data to unapproved tools
-- Send sensitive files to personal email accounts
-- Store customer data on personal cloud drives
-- Share billing records with unauthorized users
-
-### 4. Software and Browser Extensions
-
-Users must not install unauthorized software or browser extensions on company-managed systems.
-
-### 5. Suspicious Activity Reporting
-
-Users must report suspicious emails, login alerts, browser pop-ups, lost devices, or accidental data sharing immediately.
-
-## Enforcement
-
-Violations may result in access removal, retraining, disciplinary action, or contract termination.
+- Share passwords or MFA codes
+- Store customer data in personal accounts
+- Upload sensitive files to unapproved SaaS tools
+- Install unauthorized browser extensions or software
+- Use another person’s account
 
 ## Review Cycle
 
-This policy should be reviewed every 12 months or after a major security incident.
+Reviewed annually or after a major incident.

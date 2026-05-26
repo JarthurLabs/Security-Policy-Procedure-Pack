@@ -1,0 +1,33 @@
+# Security Program Traceability Matrix
+
+## Purpose
+
+This matrix connects business risks to policies, controls, procedures, owners, evidence, and implementation status.
+
+## Traceability Matrix
+
+| Business Risk | Policy | Control | Procedure / Workflow | Owner | Evidence | Status |
+|---|---|---|---|---|---|---|
+| Credential theft | Password and MFA Standard | MFA required for critical systems | MFA enforcement review | IT Administrator | MFA enforcement matrix | Implemented |
+| Orphaned accounts | Access Control Standard | Same-day access removal | Leaver workflow | IT Administrator | Offboarding checklist | Implemented |
+| Privilege creep | Access Control Standard | Quarterly access review | Quarterly access review process | Operations Manager | Access review record | In Progress |
+| Unauthorized admin access | Access Control Standard | Privileged approval workflow | Privileged account approval | System Owner | Privileged access register | Implemented |
+| Vendor data exposure | Vendor Risk Standard | Vendor risk scorecard | Vendor review checklist | Business Owner | Vendor scorecard | In Progress |
+| Delayed incident response | Incident Response Procedure | Escalation and evidence capture | Incident response workflow | Operations Manager | Incident log template | Implemented |
+| Employee mishandles data | Acceptable Use Policy | Security awareness guidance | Training acknowledgement | Operations Manager | Awareness one-pager | Planned |
+| Customer assurance gaps | Security governance program | Evidence-backed questionnaire responses | Customer questionnaire response process | Operations Manager | Response pack | Implemented |
+| Weak external sharing controls | Access Control Standard | External sharing review | Google Workspace audit checklist | IT Administrator | Technical validation checklist | Planned |
+
+## How to Use This Matrix
+
+1. Start with the business risk.
+2. Identify the policy that sets the requirement.
+3. Identify the control that reduces the risk.
+4. Identify the procedure that makes the control operational.
+5. Assign an owner.
+6. Save evidence.
+7. Track status.
+
+## Why This Matters
+
+Traceability prevents disconnected documentation. It shows how governance decisions connect to real business risks and operational controls.

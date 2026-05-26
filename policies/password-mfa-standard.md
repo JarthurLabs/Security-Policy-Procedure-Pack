@@ -1,62 +1,37 @@
 # Password and MFA Standard
 
-## Document Owner
+## Owner
 
 IT Administrator
 
 ## Purpose
 
-This standard defines minimum authentication requirements for business systems.
-
-## Scope
-
-This standard applies to all company-managed applications, administrator accounts, email accounts, file storage systems, and business-critical SaaS platforms.
+Define authentication requirements for business systems.
 
 ## Requirements
 
-### 1. MFA
+MFA is required for:
 
-MFA must be enabled for:
-
-- Email accounts
-- Administrator accounts
-- Payroll and finance systems
-- File storage platforms
-- CRM or customer data platforms
-- Remote access tools
-
-### 2. Password Requirements
+- Email
+- Password manager
+- File storage
+- Billing systems
+- Customer data systems
+- Admin accounts
+- HR/payroll systems
 
 Passwords must be:
 
-- At least 14 characters where supported
 - Unique for each work account
 - Stored in an approved password manager
-- Changed immediately if suspected to be compromised
+- Not shared through email, chat, or spreadsheets
+- Changed immediately if compromise is suspected
 
-### 3. Prohibited Practices
+## Exceptions
 
-Users must not:
-
-- Reuse personal passwords for work systems
-- Share passwords through email or chat
-- Store passwords in spreadsheets
-- Approve unexpected MFA prompts
-
-### 4. Administrator Accounts
-
-Administrator accounts must have:
-
-- MFA enabled
-- Named user ownership
-- No shared admin use unless formally approved
-- Quarterly access review
-
-## Exception Handling
-
-Exceptions must be documented with:
+MFA exceptions require:
 
 - Business justification
 - Compensating control
 - Expiration date
-- Approval owner
+- Operations Manager approval

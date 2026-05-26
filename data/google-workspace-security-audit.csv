@@ -1,0 +1,9 @@
+check_id,control_area,validation_question,expected_state,evidence_type,status
+GW-001,MFA,Are all active users enrolled in MFA?,Required for all active users,MFA report export,Planned
+GW-002,Admin Access,Are super admin accounts limited?,Only approved named admins,Admin role export,Planned
+GW-003,Admin MFA,Do all admins have MFA enabled?,100% admin MFA,Admin MFA export,Planned
+GW-004,Inactive Users,Are inactive users disabled or reviewed?,No unexplained inactive users over 30 days,User activity report,Planned
+GW-005,External Sharing,Is external sharing restricted or monitored?,Limited to approved business need,Drive sharing settings screenshot,Planned
+GW-006,Groups,Are sensitive groups owner-managed?,Owners assigned to sensitive groups,Group owner export,Planned
+GW-007,Audit Logs,Are login and admin audit logs available?,Logs enabled and reviewable,Admin log screenshot,Planned
+GW-008,Recovery Options,Are account recovery methods controlled?,Recovery options reviewed,Admin settings screenshot,Planned

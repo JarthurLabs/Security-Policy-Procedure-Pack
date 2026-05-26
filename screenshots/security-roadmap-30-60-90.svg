@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#f8fafc"/>
+<rect x="30" y="30" width="1220" height="660" rx="24" fill="#e2e8f0"/>
+<rect x="50" y="50" width="1180" height="92" rx="16" fill="#0f172a"/>
+<text x="80" y="88" font-size="30" font-family="Arial" fill="#ffffff" font-weight="700">30 / 60 / 90-Day Roadmap</text>
+<text x="80" y="120" font-size="18" font-family="Arial" fill="#cbd5e1">Practical remediation sequencing for a small security program</text>
+<rect x="50" y="165" width="160" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="60" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Phase</text>
+<rect x="210" y="165" width="260" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="220" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Focus</text>
+<rect x="470" y="165" width="520" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="480" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Example Action</text>
+<rect x="990" y="165" width="240" height="46" fill="#1e293b" stroke="#334155"/>
+<text x="1000" y="194" font-size="15" font-family="Arial" fill="#ffffff" font-weight="700">Owner</text>
+<rect x="50" y="211" width="160" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="240" font-size="14" font-family="Arial" fill="#0f172a">30 days</text>
+<rect x="210" y="211" width="260" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="220" y="240" font-size="14" font-family="Arial" fill="#0f172a">Access and MFA</text>
+<rect x="470" y="211" width="520" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="480" y="240" font-size="14" font-family="Arial" fill="#0f172a">Enforce MFA for critical apps</text>
+<rect x="990" y="211" width="240" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1000" y="240" font-size="14" font-family="Arial" fill="#0f172a">IT Administrator</text>
+<rect x="50" y="257" width="160" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="286" font-size="14" font-family="Arial" fill="#0f172a">30 days</text>
+<rect x="210" y="257" width="260" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="220" y="286" font-size="14" font-family="Arial" fill="#0f172a">IAM workflow</text>
+<rect x="470" y="257" width="520" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="480" y="286" font-size="14" font-family="Arial" fill="#0f172a">Create JML workflow</text>
+<rect x="990" y="257" width="240" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1000" y="286" font-size="14" font-family="Arial" fill="#0f172a">Operations Manager</text>
+<rect x="50" y="303" width="160" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="332" font-size="14" font-family="Arial" fill="#0f172a">60 days</text>
+<rect x="210" y="303" width="260" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="220" y="332" font-size="14" font-family="Arial" fill="#0f172a">Review</text>
+<rect x="470" y="303" width="520" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="480" y="332" font-size="14" font-family="Arial" fill="#0f172a">Complete first access review</text>
+<rect x="990" y="303" width="240" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1000" y="332" font-size="14" font-family="Arial" fill="#0f172a">Operations Manager</text>
+<rect x="50" y="349" width="160" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="378" font-size="14" font-family="Arial" fill="#0f172a">60 days</text>
+<rect x="210" y="349" width="260" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="220" y="378" font-size="14" font-family="Arial" fill="#0f172a">Vendor risk</text>
+<rect x="470" y="349" width="520" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="480" y="378" font-size="14" font-family="Arial" fill="#0f172a">Launch vendor review checklist</text>
+<rect x="990" y="349" width="240" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1000" y="378" font-size="14" font-family="Arial" fill="#0f172a">Business Owner</text>
+<rect x="50" y="395" width="160" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="60" y="424" font-size="14" font-family="Arial" fill="#0f172a">90 days</text>
+<rect x="210" y="395" width="260" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="220" y="424" font-size="14" font-family="Arial" fill="#0f172a">Validation</text>
+<rect x="470" y="395" width="520" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="480" y="424" font-size="14" font-family="Arial" fill="#0f172a">Complete SaaS audit checklist</text>
+<rect x="990" y="395" width="240" height="46" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1000" y="424" font-size="14" font-family="Arial" fill="#0f172a">IT Administrator</text>
+<rect x="50" y="441" width="160" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="60" y="470" font-size="14" font-family="Arial" fill="#0f172a">90 days</text>
+<rect x="210" y="441" width="260" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="220" y="470" font-size="14" font-family="Arial" fill="#0f172a">Assurance</text>
+<rect x="470" y="441" width="520" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="480" y="470" font-size="14" font-family="Arial" fill="#0f172a">Publish questionnaire response pack</text>
+<rect x="990" y="441" width="240" height="46" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="1000" y="470" font-size="14" font-family="Arial" fill="#0f172a">Operations Manager</text>
+<text x="50" y="650" font-size="18" font-family="Arial" fill="#475569">Synthetic operational evidence screenshot for public GitHub documentation</text>
+</svg>

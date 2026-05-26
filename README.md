@@ -1,162 +1,39 @@
-# Small Business Security Policy & Procedure Pack
+# Small Business Security Governance Program
 
 ## Overview
 
-This is a beginner GRC and security documentation portfolio project for a simulated small business that needs baseline cybersecurity governance, access control, vendor risk, incident response, and employee awareness documentation.
+This repository contains a lightweight security governance program for a simulated 25-person professional services company, **Northstar Dental Billing LLC**. The program is designed to improve operational security around identity and access management, policy governance, vendor risk, incident response, and customer security assurance.
 
-The first version of this project was intentionally documentation-focused. This updated version adds stronger **evidence of work**: control mapping, risk scoring, vendor risk scoring, before/after maturity improvement logic, screenshots, and a changelog.
+The materials are intentionally practical. They are written for a small organization that needs clearer ownership, repeatable processes, and evidence-ready documentation without overbuilding an enterprise compliance program.
 
-> All company names, risks, users, vendors, and data are synthetic and safe for public GitHub use.
+> All company names, users, vendors, systems, and data are synthetic and safe for public use.
 
 ---
 
 ## Business Scenario
 
-A 25-person professional services company called **Northstar Dental Billing LLC** handles customer billing records, employee data, and SaaS-based operational workflows. The company does not have a full security team, but leadership wants to improve security readiness before signing larger client contracts.
+Northstar Dental Billing LLC uses common SaaS tools for email, file storage, CRM, billing support, password management, project management, and customer communication. The company is beginning to receive more customer security questions and wants to improve its security readiness before pursuing larger client contracts.
 
-The company requested a lightweight security documentation package that could help with:
+The business needs a small but structured security program that can answer five questions:
 
-- Safer employee behavior
-- Consistent account access practices
-- Clear incident response steps
-- Better third-party vendor review
-- Stronger customer security questionnaire responses
-- Practical alignment to common cybersecurity frameworks
-
----
-
-## Role Alignment
-
-This project is most relevant for:
-
-- GRC Analyst
-- Security Implementation Specialist
-- Security Solutions Consultant
-- Cybersecurity Analyst, governance-focused
-- IAM Analyst, access-control-focused
-- SaaS security documentation and onboarding roles
+1. Who owns security decisions?
+2. How is employee access requested, changed, reviewed, and removed?
+3. How are vendors reviewed before they are approved?
+4. What happens when a security incident is reported?
+5. What evidence supports customer security questionnaire responses?
 
 ---
 
-## Deliverables Created
+## Program Objectives
 
-| Deliverable | Purpose | Evidence File |
-|---|---|---|
-| Security policy pack | Establish baseline security expectations | `policies/` |
-| Incident response procedure | Define repeatable response steps | `procedures/incident-response-procedure.md` |
-| Control mapping | Connect documents to NIST CSF 2.0 and CIS Controls | `evidence/control-mapping.md` |
-| Risk register | Show risk prioritization and remediation logic | `evidence/risk-register.md` |
-| Vendor risk scoring example | Demonstrate third-party security review | `evidence/vendor-risk-scoring.md` |
-| Before/after maturity analysis | Show improvement created by the documentation | `evidence/before-after-analysis.md` |
-| Changelog | Show iteration and project improvement | `CHANGELOG.md` |
-
----
-
-## Evidence of Work
-
-This project goes beyond writing templates. It shows how I made security governance decisions.
-
-### 1. Control Mapping
-
-I mapped each document to relevant NIST CSF 2.0 functions and practical CIS Controls categories. This helps show that the documents are not random policies. Each one supports a security outcome.
-
-See: [`evidence/control-mapping.md`](./evidence/control-mapping.md)
-
-### 2. Risk Register
-
-I created a simple risk scoring model using:
-
-```text
-Risk Score = Likelihood x Impact
-```
-
-This demonstrates prioritization instead of treating all security issues as equal.
-
-See: [`evidence/risk-register.md`](./evidence/risk-register.md)
-
-### 3. Vendor Risk Scoring
-
-I created a vendor risk scoring example for a simulated SaaS vendor. This shows how a small business could assess third-party risk before approving a tool.
-
-See: [`evidence/vendor-risk-scoring.md`](./evidence/vendor-risk-scoring.md)
-
-### 4. Before/After Improvement Logic
-
-I documented the company’s assumed starting state, the improvement made by each deliverable, and the remaining gaps.
-
-See: [`evidence/before-after-analysis.md`](./evidence/before-after-analysis.md)
-
----
-
-## Frameworks Referenced
-
-This project uses lightweight mapping to:
-
-- **NIST Cybersecurity Framework 2.0**
-- **CIS Controls v8 / v8.1 concepts**
-
-The purpose is not to claim full compliance. The purpose is to show practical beginner-level GRC thinking: mapping business needs, risks, policies, and controls.
-
----
-
-## Screenshots
-
-| Screenshot | What It Shows |
+| Objective | Why It Matters |
 |---|---|
-| `screenshots/control-mapping-overview.svg` | How documents map to controls |
-| `screenshots/risk-register-overview.svg` | Risk scoring and prioritization |
-| `screenshots/vendor-risk-scorecard.svg` | Vendor review logic |
-| `screenshots/policy-pack-overview.svg` | Policy deliverables created |
-
----
-
-## How This Would Be Used in a Real Company
-
-A small company could use this package as a starting point to:
-
-1. Set clear employee security expectations.
-2. Standardize onboarding and offboarding.
-3. Require MFA for important systems.
-4. Review vendor risk before approving new SaaS tools.
-5. Respond more consistently to suspected security incidents.
-6. Prepare better answers for customer security questionnaires.
-
-This would not replace a formal audit, legal review, compliance program, or enterprise security team. It is a practical baseline designed for a small organization that needs structure.
-
----
-
-## Interview Explanation
-
-Use this explanation:
-
-> I created this project to demonstrate beginner GRC and security documentation skills. I started with a realistic small-business scenario, created baseline security policies and procedures, then improved the project by adding evidence of work: control mapping, a risk register, vendor risk scoring, before/after maturity logic, screenshots, and a changelog. My goal was to show not just that I can write policies, but that I understand why each document exists and how it reduces business risk.
-
----
-
-## What This Demonstrates
-
-- Security documentation
-- GRC thinking
-- Control mapping
-- Basic risk scoring
-- Vendor risk review
-- Incident response process design
-- Access control governance
-- Executive-ready communication
-- Practical security implementation planning
-
----
-
-## Limitations
-
-This is a beginner portfolio project using synthetic data. It does not claim:
-
-- Formal compliance certification
-- Legal approval
-- Full NIST CSF implementation
-- Full CIS Controls implementation
-- Production security assessment
-- Real customer or company evidence
+| Establish security ownership | Reduces confusion and improves accountability |
+| Standardize IAM governance | Reduces excessive access, orphaned accounts, and privilege creep |
+| Create policy and procedure baselines | Gives employees and managers clear expectations |
+| Connect risks to controls and procedures | Supports traceability and audit readiness |
+| Add customer assurance evidence | Supports sales, implementation, and customer trust conversations |
+| Add technical validation | Shows governance is connected to actual operational checks |
 
 ---
 
@@ -166,12 +43,142 @@ This is a beginner portfolio project using synthetic data. It does not claim:
 .
 ├── README.md
 ├── CHANGELOG.md
-├── HOW_TO_EXPLAIN.md
+├── COMMIT_GUIDE.md
 ├── policies/
 ├── procedures/
+├── iam-governance/
+├── program/
+├── customer-assurance/
+├── technical-validation/
 ├── evidence/
 ├── data/
 ├── reports/
 ├── screenshots/
 └── templates/
 ```
+
+---
+
+## Core Deliverables
+
+| Area | Deliverables |
+|---|---|
+| IAM Governance | Joiner/mover/leaver workflow, access request form, quarterly access review, privileged account approval, MFA enforcement matrix, role-based access examples |
+| Security Program Operations | Security roadmap, 30/60/90-day remediation plan, ownership chart, exception handling, policy review schedule, KPIs |
+| GRC Traceability | Security program traceability matrix connecting business risks, policies, controls, procedures, owners, and status |
+| Policy Governance | Acceptable use, password/MFA, access control, incident response, vendor risk, awareness material |
+| Customer Assurance | Mock customer security questionnaire and evidence-backed response pack |
+| Technical Validation | Lightweight Google Workspace-style security audit checklist with MFA, admin, sharing, and logging validation |
+| Evidence | Risk register, vendor scorecard, before/after maturity analysis, screenshots, CSV evidence files |
+
+---
+
+## Security Program Traceability
+
+The traceability matrix is the center of this repository. It connects business risk to security documentation and operational controls.
+
+See: [`program/security-program-traceability-matrix.md`](./program/security-program-traceability-matrix.md)
+
+| Business Risk | Policy | Control | Procedure | Owner | Status |
+|---|---|---|---|---|---|
+| Credential theft | Password and MFA Standard | MFA enforcement | IAM access review | IT Administrator | Implemented |
+| Orphaned accounts | Access Control Standard | JML workflow | Offboarding checklist | Operations Manager | Implemented |
+| Vendor data exposure | Vendor Risk Standard | Vendor scorecard | Vendor review checklist | Business Owner | In Progress |
+| Delayed incident response | Incident Response Procedure | Escalation workflow | Incident response procedure | Operations Manager | Implemented |
+
+---
+
+## IAM Governance Highlights
+
+Identity and access management is the strongest operational focus of this program. The IAM section defines how access is requested, approved, changed, reviewed, and removed.
+
+See: [`iam-governance/`](./iam-governance/)
+
+Key IAM deliverables:
+
+- Joiner / mover / leaver workflow
+- Access request form
+- Quarterly access review process
+- Privileged account approval workflow
+- MFA enforcement matrix
+- Role-based access examples
+- Offboarding checklist
+
+---
+
+## Technical Validation Layer
+
+This repository includes a lightweight technical validation layer to connect governance documents to system-level checks.
+
+See: [`technical-validation/google-workspace-security-audit.md`](./technical-validation/google-workspace-security-audit.md)
+
+The validation checklist reviews:
+
+- MFA enforcement
+- Super admin account limits
+- External file sharing
+- Inactive users
+- Password manager adoption
+- Login alerting
+- Admin audit log review
+- Group-based access
+
+This is not a production audit. It is a small operational validation example showing how governance requirements can be checked against SaaS administration settings.
+
+---
+
+## Customer Security Questionnaire Pack
+
+Customer-facing security assurance is included because small SaaS and services companies often need to answer security questions during sales, onboarding, renewal, and vendor review.
+
+See: [`customer-assurance/questionnaire-response-pack.md`](./customer-assurance/questionnaire-response-pack.md)
+
+The response pack includes evidence references for questions like:
+
+- Do you enforce MFA?
+- How do you handle employee offboarding?
+- How do you review vendors?
+- Do you have an incident response process?
+- How often do you review access?
+
+---
+
+## Framework Alignment
+
+This repository uses practical mapping to:
+
+- NIST Cybersecurity Framework 2.0
+- CIS Controls v8.1 concepts
+
+The mapping is intentionally lightweight. It is used to organize governance work, not to claim formal compliance certification.
+
+---
+
+## How This Would Operate in a Real Company
+
+1. Leadership assigns owners for security, IT administration, vendor review, and incident response.
+2. Access requests follow the access request workflow.
+3. Role changes trigger mover reviews.
+4. Departures trigger same-day access removal.
+5. Admin access requires documented approval.
+6. Vendors are scored before approval.
+7. Policies are reviewed on a defined schedule.
+8. Security metrics are reported monthly.
+9. Customer questionnaire responses reference supporting evidence.
+10. Technical validation checks confirm whether controls are operating.
+
+---
+
+## Limitations
+
+This repository does not represent:
+
+- A formal audit
+- Legal advice
+- Full NIST CSF implementation
+- Full CIS Controls implementation
+- Production security certification
+- Real customer evidence
+- A SOC or penetration testing project
+
+It is a practical small-business governance model built with synthetic data.

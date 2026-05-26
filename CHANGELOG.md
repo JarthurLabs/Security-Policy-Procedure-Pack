@@ -1,28 +1,37 @@
 # Changelog
 
-## v2.0 - Hiring Manager Feedback Improvements
+## v3.0 - Operational Security Governance Upgrade
 
 ### Added
 
-- Added `evidence/control-mapping.md`
-- Added `evidence/risk-register.md`
-- Added `evidence/vendor-risk-scoring.md`
-- Added `evidence/before-after-analysis.md`
-- Added `evidence/evidence-of-work-summary.md`
-- Added `data/control-mapping.csv`
-- Added `data/risk-register.csv`
-- Added `data/vendor-risk-scorecard.csv`
-- Added SVG screenshots showing control mapping, risk register, vendor scorecard, and policy overview
-- Added more detailed policies and procedures
-- Added clearer limitations section
+- IAM governance section
+  - Joiner / mover / leaver workflow
+  - Access request form
+  - Quarterly access review process
+  - Privileged account approval workflow
+  - MFA enforcement matrix
+  - Role-based access examples
+- Security program traceability matrix
+- Mini security program operations section
+  - Security roadmap
+  - 30/60/90-day remediation plan
+  - Security ownership chart
+  - Exception handling process
+  - Policy review schedule
+  - Security metrics and KPIs
+- Customer security questionnaire response pack
+- Technical validation layer using a Google Workspace-style security audit checklist
+- Commit guide with professional commit message examples
+- New CSV evidence files
+- New screenshots for IAM governance, traceability, roadmap, and technical validation
 
 ### Changed
 
-- Renamed the README section from **Key Findings** to **Deliverables Created**
-- Reframed the project as a GRC decision-making project instead of only a documentation template pack
-- Added explicit interview explanation
-- Added business use case and before/after maturity logic
+- Reduced wording that sounded like an artificial portfolio explanation
+- Reframed the repository as a lightweight security governance program
+- Updated README to focus on business scenario, operating model, traceability, and security ownership
+- Made the project stronger for IAM, GRC, Security Implementation Specialist, Trust/Security Operations, and Security Solutions Consultant roles
 
-### Why This Matters
+### Why This Update Matters
 
-The first version showed that I could write security documents. This version shows that I can connect those documents to risks, controls, business outcomes, and implementation decisions.
+The repository now shows operational cybersecurity governance instead of only security documentation. The strongest additions are IAM governance and traceability because they connect directly to real GRC, IAM, SaaS implementation, and security assurance work.

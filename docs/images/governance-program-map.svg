@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440">
+  <rect width="1000" height="440" fill="#fbfaf5"/>
+  <text x="48" y="55" font-family="Comic Sans MS, Arial" font-size="30" fill="#1f2937">Small business governance map</text>
+  <text x="51" y="84" font-family="Comic Sans MS, Arial" font-size="15" fill="#4b5563">Policies are useful only when they connect to owners, evidence, and repeatable work.</text>
+
+  <rect x="70" y="135" width="190" height="95" rx="12" fill="#e0f2fe" stroke="#075985" stroke-width="2" transform="rotate(-1.2 70 135)"/>
+  <text x="95" y="170" font-family="Comic Sans MS, Arial" font-size="18" fill="#0c4a6e">Policies</text>
+  <text x="95" y="198" font-family="Comic Sans MS, Arial" font-size="14" fill="#1f2937">what should happen</text>
+
+  <path d="M280 184 C325 168, 350 168, 392 184" stroke="#374151" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M378 172 L394 184 L377 196" stroke="#374151" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <rect x="410" y="127" width="190" height="110" rx="12" fill="#fef3c7" stroke="#92400e" stroke-width="2" transform="rotate(.9 410 127)"/>
+  <text x="434" y="164" font-family="Comic Sans MS, Arial" font-size="18" fill="#78350f">Procedures</text>
+  <text x="434" y="192" font-family="Comic Sans MS, Arial" font-size="14" fill="#1f2937">how it actually gets done</text>
+
+  <path d="M620 184 C660 198, 690 198, 730 184" stroke="#374151" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M716 176 L732 184 L719 198" stroke="#374151" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <rect x="750" y="135" width="180" height="95" rx="12" fill="#dcfce7" stroke="#166534" stroke-width="2" transform="rotate(-.8 750 135)"/>
+  <text x="775" y="170" font-family="Comic Sans MS, Arial" font-size="18" fill="#14532d">Evidence</text>
+  <text x="775" y="198" font-family="Comic Sans MS, Arial" font-size="14" fill="#1f2937">proof someone can check</text>
+
+  <rect x="125" y="298" width="750" height="60" rx="10" fill="#ffffff" stroke="#d6d3d1" stroke-width="2"/>
+  <text x="153" y="335" font-family="Comic Sans MS, Arial" font-size="15" fill="#374151">The upgrade was realizing this was not a document pack. It was an ownership and evidence system.</text>
+</svg>

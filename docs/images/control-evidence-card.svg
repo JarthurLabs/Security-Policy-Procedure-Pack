@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+  <rect width="920" height="520" fill="#f1f5f9"/>
+  <rect x="58" y="45" width="804" height="420" rx="12" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+  <rect x="58" y="45" width="804" height="65" rx="12" fill="#334155"/>
+  <text x="90" y="86" font-family="Arial" font-size="24" font-weight="bold" fill="#ffffff">Example control evidence card</text>
+  <text x="680" y="86" font-family="Arial" font-size="15" fill="#fde68a">Status: Drafted</text>
+
+  <text x="90" y="150" font-family="Arial" font-size="13" fill="#64748b">Control area</text>
+  <text x="250" y="150" font-family="Arial" font-size="16" fill="#111827">Access review and offboarding</text>
+  <line x1="90" y1="164" x2="820" y2="164" stroke="#e2e8f0"/>
+
+  <text x="90" y="198" font-family="Arial" font-size="13" fill="#64748b">Owner</text>
+  <text x="250" y="198" font-family="Arial" font-size="16" fill="#111827">Operations lead / system owner</text>
+  <line x1="90" y1="212" x2="820" y2="212" stroke="#e2e8f0"/>
+
+  <text x="90" y="246" font-family="Arial" font-size="13" fill="#64748b">Process</text>
+  <text x="250" y="246" font-family="Arial" font-size="16" fill="#111827">Quarterly access review plus joiner/mover/leaver workflow</text>
+  <line x1="90" y1="260" x2="820" y2="260" stroke="#e2e8f0"/>
+
+  <text x="90" y="294" font-family="Arial" font-size="13" fill="#64748b">Evidence</text>
+  <text x="250" y="294" font-family="Arial" font-size="16" fill="#111827">Review sheet, owner sign-off, disabled account record, exception notes</text>
+  <line x1="90" y1="308" x2="820" y2="308" stroke="#e2e8f0"/>
+
+  <text x="90" y="342" font-family="Arial" font-size="13" fill="#64748b">Why it matters</text>
+  <text x="250" y="342" font-family="Arial" font-size="16" fill="#111827">Makes customer assurance and audits answerable with proof</text>
+  <line x1="90" y1="356" x2="820" y2="356" stroke="#e2e8f0"/>
+
+  <text x="90" y="390" font-family="Arial" font-size="13" fill="#64748b">Gap</text>
+  <text x="250" y="390" font-family="Arial" font-size="16" fill="#111827">Needs live system export before this becomes operating evidence</text>
+  <line x1="90" y1="404" x2="820" y2="404" stroke="#e2e8f0"/>
+
+  <text x="90" y="438" font-family="Courier New" font-size="13" fill="#475569">Policy without evidence is basically a nice PDF with ambition.</text>
+</svg>
